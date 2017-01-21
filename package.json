@@ -1,62 +1,22 @@
 {
   "name": "buildgem",
+  "description": "Build static sites, or anything you like, using simple plugins",
+  "keywords": ["build", "static", "markdown", "yaml", "website", "docs", "documentation", "metalsmith", "wintersmith", "blacksmith"],
+  "author": "Kieran Potts",
   "version": "0.0.1",
-  "description": "Pluggable build automation framework",
-  "keywords": [
-    "blacksmith",
-    "build",
-    "docs",
-    "documentation",
-    "markdown",
-    "metalsmith",
-    "static",
-    "task",
-    "website",
-    "wintersmith",
-    "yaml"
-  ],
-  "author": {
-    "name": "Kieran Potts",
-    "email": "hello@kieranpotts.com",
-    "url": "http://www.kieranpotts.com/"
-  },
   "license": "MIT",
-  "homepage": "http://www.buildgem.com/",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/buildgem/buildgem.git"
+    "url": "buildgem/buildgem"
   },
-  "bugs": {
-    "url": "https://github.com/buildgem/buildgem/issues"
+  "main": "./lib/buildgem",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "*"
+  },
+  "scripts": {
+    "test": "standard **/*.js"
   },
   "engines": {
     "node": ">=4.5.0"
-  },
-  "files": [
-    "lib",
-    "bin"
-  ],
-  "main": "./lib/buildgem",
-  "bin": {
-    "buildgem": "./bin/buildgem"
-  },
-  "dependencies": {
-    "async": "^2.1.4",
-    "chalk": "^1.1.3",
-    "chokidar": "^1.6.1",
-    "del": "^2.2.2",
-    "fs-extra": "^1.0.0",
-    "globby": "^6.1.0",
-    "markdown-it": "^8.2.2",
-    "node-sass": "^4.3.0",
-    "rendy": "^1.1.0",
-    "yaml-front-matter": "^3.4.0"
-  },
-  "devDependencies": {
-    "eslint": "^3.14.0",
-    "standard": "^8.6.0"
-  },
-  "scripts": {
-    "test": "standard **/*.js && eslint lib/*.js"
   }
 }
