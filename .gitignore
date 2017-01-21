@@ -1,13 +1,9 @@
-# Exclude temporary files and dependencies.
-
-/tmp
-/node_modules
-
-# Exclude common system files.
-
 Thumbs.db
 .DS_Store
 .cvs
 .svn
 *.bak
 *.swp
+
+/tmp
+/node_modules
