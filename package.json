@@ -1,0 +1,22 @@
+{
+  "name": "buildgem",
+  "description": "Build static sites, or anything you like, using simple plugins",
+  "keywords": ["build", "static", "markdown", "yaml", "website", "docs", "documentation", "metalsmith", "wintersmith", "blacksmith"],
+  "author": "Kieran Potts",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "url": "buildgem/buildgem"
+  },
+  "main": "./lib/buildgem",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "*"
+  },
+  "scripts": {
+    "test": "standard **/*.js"
+  },
+  "engines": {
+    "node": ">=4.5.0"
+  }
+}
