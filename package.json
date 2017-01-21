@@ -1,5 +1,5 @@
 {
-  "name": "buildgem",
+  "name": "BuildGem",
   "version": "0.0.1",
   "description": "Pluggable build automation framework",
   "keywords": [
@@ -21,7 +21,7 @@
     "url": "http://www.kieranpotts.com/"
   },
   "license": "MIT",
-  "homepage": "http://www.buildgem.com/",
+  "homepage": "https://github.com/buildgem",
   "repository": {
     "type" : "git",
     "url" : "https://github.com/buildgem/buildgem.git"
