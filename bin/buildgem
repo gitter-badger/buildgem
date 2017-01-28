@@ -1,0 +1,34 @@
+#!/usr/bin/env node
+
+/*!
+ * xxxx
+ * Copyright (c) 2017 Kieran Potts
+ * MIT License
+ */
+
+'use strict'
+
+/**
+ * Module dependencies.
+ * @private
+ */
+
+// var path = require('path')
+// var fs = require('fs')
+
+// Fetch command line arguments after ``node commandname``:
+
+// var args = [null, null];
+// if (process.argv.length > 2) {
+//    args[0] = Number(process.argv[2]);
+//    args[1] = Number(process.argv[3]);
+// }
+
+// Pass the arguments to the module's ``add()`` method:
+
+// var lib = path.join(path.dirname(fs.realpathSync(__filename)), '../lib');
+// var out = require(lib+'/modulename.js').add(args[0], args[1]);
+
+// Print the result in the console:
+
+// console.log(out);
