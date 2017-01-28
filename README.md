@@ -1,5 +1,5 @@
 
-# [![BuildGem](https://raw.githubusercontent.com/buildgem/logo/develop/build/buildgem-logo-240x60.png)](https://github.com/buildgem)
+# [![BuildGem](https://cdn.rawgit.com/buildgem/logo/v2.0.0/build/buildgem-logo-240x60.png)](https://github.com/buildgem)
 
 [![version](https://img.shields.io/npm/v/buildgem.svg?label=version&colorA=333333&colorB=E8BA00&style=flat-square&maxAge=1000)](https://www.npmjs.com/package/buildgem)
 [![build](https://img.shields.io/travis/buildgem/buildgem.svg?label=build&colorA=333333&colorB=E8BA00&style=flat-square&maxAge=1000)](https://travis-ci.org/buildgem/buildgem)
