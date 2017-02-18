@@ -17,7 +17,7 @@ BuildGem works like this:
 
 * It reads files from a source directory that you specify
 * It passes those files through a series of plugins that you configure
-* Each plugin is given the opportunity to process some or all of the source files, using them to create new files in a separate build directory
+* Each plugin is given the opportunity to process some or all of the source and/or built files
 
 BuildGem doesn't do any building itself. The build steps are handled by plugins.
 
@@ -35,7 +35,7 @@ That's all there is to it. Nothing more complicated than that.
 
 BuildGem is inspired by Node.js static site generators, notably [MetalSmith](https://www.npmjs.com/package/metalsmith), [Wintersmith](https://www.npmjs.com/package/wintersmith) and [Blacksmith](https://www.npmjs.com/package/blacksmith). BuildGem is different in that it is a generic build automation tool. It does not specialise in the building of static websites.
 
-Also, BuildGem's internal mechanics are simpler. It does not provide plugins with an abstraction of the source files like MetalSmith, for instance. This means that plugins are not tightly coupled to BuildGem itself.
+Also, BuildGem's internal mechanics are simpler. It does not provide plugins with an abstraction of the source files like MetalSmith. This means that plugins are not tightly coupled to BuildGem itself.
 
 
 ## Requirements
@@ -90,7 +90,7 @@ new BuildGem()
     })
   ])
   .rebuild()
-  .listen();
+  .listen()
 ```
 
 
