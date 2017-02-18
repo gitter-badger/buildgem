@@ -2,10 +2,6 @@
 # [![BuildGem](https://cdn.rawgit.com/buildgem/logo/v2.0.0/build/buildgem-logo-240x60.png)](https://github.com/buildgem)
 
 [![version](https://img.shields.io/npm/v/buildgem.svg?label=version&colorA=333333&colorB=E8BA00&style=flat-square&maxAge=1000)](https://www.npmjs.com/package/buildgem)
-[![build](https://img.shields.io/travis/buildgem/buildgem.svg?label=build&colorA=333333&colorB=E8BA00&style=flat-square&maxAge=1000)](https://travis-ci.org/buildgem/buildgem)
-[![coverage](https://img.shields.io/coveralls/buildgem/buildgem.svg?label=coverage&colorA=333333&colorB=E8BA00&style=flat-square&maxAge=1000)](https://coveralls.io/github/buildgem/buildgem)
-[![dependencies](https://img.shields.io/david/buildgem/buildgem.svg?label=dependencies&colorA=333333&colorB=E8BA00&style=flat-square&maxAge=1000)](https://david-dm.org/buildgem/buildgem)
-[![code quality GPA](https://img.shields.io/codeclimate/github/buildgem/buildgem.svg?label=code%20quality%20GPA&colorA=333333&colorB=E8BA00&style=flat-square&maxAge=1000)](https://codeclimate.com/github/buildgem/packagename)
 [![downloads](https://img.shields.io/npm/dt/buildgem.svg?label=downloads&colorA=333333&colorB=E8BA00&style=flat-square&maxAge=1000)](https://www.npmjs.com/package/buildgem)
 
 
