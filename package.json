@@ -21,10 +21,10 @@
     "url": "http://www.kieranpotts.com/"
   },
   "license": "MIT",
-  "homepage": "https://github.com/buildgem",
+  "homepage": "http://www.buildgem.com",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/buildgem/buildgem.git"
+    "type": "git",
+    "url": "https://github.com/buildgem/buildgem.git"
   },
   "bugs": {
     "url": "https://github.com/buildgem/buildgem/issues"
