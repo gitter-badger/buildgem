@@ -12,7 +12,4 @@ A pluggable build automation framework for Node.js
 - [Credits](http://www.buildgem.com/credits/)
 - [Changelog](http://www.buildgem.com/changelog/)
 
-<br />
-<br />
-<br />
-<div style="text-align: right;"><a href="http://standardjs.com/"><img src="https://cdn.rawgit.com/feross/standard/master/badge.svg" alt="Standard JS"></a></div>
+<p><br /><br /><br /><br /><a href="http://standardjs.com/"><img src="https://cdn.rawgit.com/feross/standard/master/badge.svg" alt="Standard JS"></a></p>
