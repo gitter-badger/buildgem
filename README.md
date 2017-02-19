@@ -15,4 +15,4 @@ A pluggable build automation framework for Node.js
 <br />
 <br />
 <br />
-<p style="text-align: right"><a href="http://standardjs.com/"><img src="https://cdn.rawgit.com/feross/standard/master/badge.svg" alt="Standard JS"></a></p>
+<div style="text-align: right;"><a href="http://standardjs.com/"><img src="https://cdn.rawgit.com/feross/standard/master/badge.svg" alt="Standard JS"></a></div>
