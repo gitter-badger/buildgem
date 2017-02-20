@@ -1,6 +1,8 @@
 
 # [![BuildGem](https://cdn.rawgit.com/buildgem/logo/2.1.0/dist/png/buildgem-logo-240x60.png)](https://github.com/buildgem)
 
+[![Join the chat at https://gitter.im/buildgem/buildgem](https://badges.gitter.im/buildgem/buildgem.svg)](https://gitter.im/buildgem/buildgem?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![version](https://img.shields.io/npm/v/buildgem.svg?label=version&colorA=333333&colorB=E8BA00&style=flat-square&maxAge=1000)](https://www.npmjs.com/package/buildgem)
 [![downloads](https://img.shields.io/npm/dt/buildgem.svg?label=downloads&colorA=333333&colorB=E8BA00&style=flat-square&maxAge=1000)](https://www.npmjs.com/package/buildgem)
 
